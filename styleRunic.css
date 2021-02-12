@@ -1,0 +1,56 @@
+html
+{
+    color: #000;
+    display: block;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: 5px;
+    background-color: #000000;
+}
+head
+{
+    display: none;
+}
+body
+{
+    font: 20px/1.231 arial, helvetica, clean, sans-serif;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 13px;
+    line-height: 1.231;
+    font-family: arial, helvetica, clean, serif;
+}
+body
+{
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20px;
+    margin: 25px;
+    text-align: center;
+}
+p
+{
+    text-align: center;
+    font-style: normal;
+    color: #DAA520;
+}
+.Lem
+{
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 100px;
+}
+footer
+{
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #FFF;
+  text-align: center;
+  padding-top: 50px;
+}
