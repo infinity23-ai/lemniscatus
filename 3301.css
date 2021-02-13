@@ -46,7 +46,7 @@ a:hover, a:active {
   background-color: red;
 }
 .btn {
-  background-color: DodgerBlue;
+  background-color: red;
   border: none;
   color: white;
   padding: 12px 30px;
@@ -56,7 +56,7 @@ a:hover, a:active {
 
 /* Darker background on mouse-over */
 .btn:hover {
-  background-color: RoyalBlue;
+  background-color: #B22222;
 }
 h1
 {
