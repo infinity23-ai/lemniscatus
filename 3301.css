@@ -38,6 +38,7 @@ a:link, a:visited {
   padding: 15px 25px;
   text-align: center;
   text-decoration: none;
+  text-transform: uppercase;
   display: inline-block;
 }
 
