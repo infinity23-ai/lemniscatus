@@ -32,6 +32,10 @@ body
     margin: 25px;
     text-align: center;
 }
+a
+{
+  color: red;
+}
 h1
 {
     font-size: 23px;
