@@ -63,3 +63,53 @@ footer
   text-align: center;
   padding-top: 300px;
 }
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+.btn {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: #B22222;
+}
+h1
+{
+    font-size: 23px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #8B0000;
+    letter-spacing: 2px;
+    text-align: center;
+}
+h2
+{
+    font-size: 23px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #8B0000;
+    letter-spacing: 2px;
+    text-align: center;
+}
+p
+{
+    text-align: center;
+    font-style: normal;
+    color: #FFF;
+}
