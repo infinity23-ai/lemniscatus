@@ -76,6 +76,12 @@ h2
     letter-spacing: 2px;
     text-align: center;
 }
+p
+{
+    text-align: center;
+    font-style: normal;
+    color: #FFF;
+}
 footer
 {
   font-size: 10px;
